@@ -1,0 +1,5 @@
+{
+  "name": "SecureTrans",
+  "description": "A local-only file conversion and encryption tool. Upload files, convert formats, rename, encrypt with AES-256, and download as individual files or a single .zip archive. All processing happens securely in your browser, ensuring your data never leaves your machine.",
+  "requestFramePermissions": []
+}
